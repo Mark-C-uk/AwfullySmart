@@ -20,7 +20,7 @@
  */
 
 metadata {
-    definition (name: "Z-Wave Light Switch Multichannel Child Device", namespace: "hongtat", author: "HongTat Tan") {
+    definition (name: "NEO Coolcam/MCOHome Z-Wave Light Switch Multichannel Child Device", namespace: "hongtat", author: "HongTat Tan") {
         capability "Switch"
         capability "Actuator"
         capability "Sensor"
